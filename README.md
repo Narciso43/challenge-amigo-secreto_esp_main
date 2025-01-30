@@ -75,3 +75,4 @@ Aleatoriedad: La función Math.random() se utiliza para generar números aleator
 *[Conclusión](#conclusión)
 _Conclusion
 El desarrollo de este programa me permitió poner en práctica mis conocimientos en javaScript,HTML Y CSS y reforzar conceptos como manipulación de arrays, interacción con el DOM y generación de números aleatorios. La aplicación demuestra la capacidad de crear interfaces de usuario interactivas y realizar tareas sencillas de procesamiento de datos._
+# Narciso43
